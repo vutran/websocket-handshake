@@ -1,0 +1,25 @@
+{
+  "name": "websocket-handshake",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && ava"
+  },
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vutran/websocket-handshake.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb-base": "^5.0.2",
+    "eslint-plugin-ava": "^3.0.0",
+    "eslint-plugin-import": "^1.13.0"
+  }
+}
