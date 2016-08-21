@@ -1,8 +1,8 @@
 {
   "name": "websocket-handshake",
   "version": "0.1.0",
-  "description": "",
-  "keywords": [],
+  "description": "Simple utility to generate a websocket handshake hash/response.",
+  "keywords": ["websocket", "handshake", "hash", "response", "http", "socket"],
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
